@@ -3,7 +3,7 @@ My name is Elias Berntsson. I am an unexperienced coder, but I am in the process
 
 * 🌍  I'm based in Sweden
 * ✉️  You can contact me at [elias.berntsson@outlook.com](mailto:elias.berntsson@outlook.com)
-* 🚀  I'm doing what I can to survive ["Gymnasiet"](http://https://en.wikipedia.org/wiki/Education_in_Sweden#National_programmes)
+* 🚀  I'm doing what I can to survive ["Gymnasiet"](https://en.wikipedia.org/wiki/Education_in_Sweden#National_programmes)
 * 🧠  I'm currently learning HTML and CSS
 
 ### Socials 
