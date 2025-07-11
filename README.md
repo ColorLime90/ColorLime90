@@ -2,7 +2,6 @@
 My name is Elias Berntsson. I am an unexperienced coder, but I am in the process of learning more.
 
 * 🌍  I'm based in Sweden
-* 🚀  I'm doing what I can to survive ["Gymnasiet"](https://en.wikipedia.org/wiki/Education_in_Sweden#National_programmes)
 * 🧠  I'm currently learning HTML, CSS and Python
 * ✉️  You can contact me at [elias.berntsson@outlook.com](mailto:elias.berntsson@outlook.com)
 
